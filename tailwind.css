@@ -1,1 +1,9 @@
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem
+}
 
+.text-blue-400 {
+  --tw-text-opacity: 1;
+  color: rgb(96 165 250 / var(--tw-text-opacity))
+}

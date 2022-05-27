@@ -10,6 +10,7 @@ export default function App() {
     <TailwindProvider utilities={utilities}>
       <AuthProvider>
         <StackNavigation />
+        <StatusBar/>
       </AuthProvider>
     </TailwindProvider>
   );
